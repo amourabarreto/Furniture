@@ -7,4 +7,5 @@ public class Main {
     private void teste(){}
 
     private void teste2(){}
+    private void teste3(){}
 }
