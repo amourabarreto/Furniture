@@ -5,4 +5,6 @@ public class Main {
         System.out.println(HelloEnum.INDEFINIDO.name());
     }
     private void teste(){}
+
+    private void teste2(){}
 }
